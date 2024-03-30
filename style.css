@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 10px;
+}
+
+header {
+    background-color: #333;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+    padding: 5px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+nav ul {
+    text-align: right;
+    list-style-type: none;
+    padding: 0;
+
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    font-size: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #f1ad1a;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.product {
+    display: inline-block;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding: 10px;
+}
+
+button:hover {
+    background-color: #f1ad1a;
+}
+
+.one {
+    width: 300px;
+    height: 400px;
+    margin-top: 10px;
+}
+
+#mail {
+    text-align: center;
+}
+
+form label {
+    margin-left: 15px;
+}
+
+fieldset {
+    border-radius: 10px;
+    padding: 20px;
+}
+
+legend {
+    background-color: #efefef;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
